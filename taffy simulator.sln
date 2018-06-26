@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "taffy simulator", "taffy simulator.vcxproj", "{91BAF42C-370C-4DAC-AAD7-80C29E6041F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91BAF42C-370C-4DAC-AAD7-80C29E6041F0}.Debug|x64.ActiveCfg = Debug|x64
+		{91BAF42C-370C-4DAC-AAD7-80C29E6041F0}.Debug|x64.Build.0 = Debug|x64
+		{91BAF42C-370C-4DAC-AAD7-80C29E6041F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{91BAF42C-370C-4DAC-AAD7-80C29E6041F0}.Debug|x86.Build.0 = Debug|Win32
+		{91BAF42C-370C-4DAC-AAD7-80C29E6041F0}.Release|x64.ActiveCfg = Release|x64
+		{91BAF42C-370C-4DAC-AAD7-80C29E6041F0}.Release|x64.Build.0 = Release|x64
+		{91BAF42C-370C-4DAC-AAD7-80C29E6041F0}.Release|x86.ActiveCfg = Release|Win32
+		{91BAF42C-370C-4DAC-AAD7-80C29E6041F0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6FDA3EE-F036-4358-A5B6-26B568C2C642}
+	EndGlobalSection
+EndGlobal
